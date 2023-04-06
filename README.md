@@ -18,7 +18,7 @@
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=adnanleroi&theme=onedark)](https://github.com/adnanleroi/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=adnanleroi&theme=dracula&column=7)](https://github.com/adnanleroi/github-profile-trophy)
   
 </div>
 
