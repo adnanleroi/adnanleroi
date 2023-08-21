@@ -1,4 +1,4 @@
-## Hi 👋, I'm an Electronics and Embedded Systems engineering student at ENPO
+## Hi 👋, I'm an Electronics and Embedded Systems engineer
 <p align="left">
   <a href="https://github.com/sudiptob2?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/adnanleroi?color=purple&logo=github">
