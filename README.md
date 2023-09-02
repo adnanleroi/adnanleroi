@@ -1,3 +1,4 @@
+![banner](Hello, my name is Adnan. Nice to meet you..png)
 ## Hi 👋, I'm an Electronics and Embedded Systems engineer
 <p align="left">
   <a href="https://github.com/sudiptob2?tab=followers">
