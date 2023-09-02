@@ -1,4 +1,4 @@
-![banner](Hello, my name is Adnan. Nice to meet you..png)
+![banner](https://github.com/adnanleroi/adnanleroi/blob/70c272ed67a60ac5d2d57f56b8f948a6c7e51c48/Hello%2C%20my%20name%20is%20Adnan.%20Nice%20to%20meet%20you..png)
 ## Hi 👋, I'm an Electronics and Embedded Systems engineer
 <p align="left">
   <a href="https://github.com/sudiptob2?tab=followers">
