@@ -7,9 +7,6 @@
   <a href="https://github.com/sudiptob2/">
     <img src="https://komarev.com/ghpvc/?username=adnanleroi" alt="visitors" />
   </a>
-  <a href="https://wakatime.com/@41a60b6c-0ab9-47ca-8abb-4c7a6d6e8013">
-    <img src="https://wakatime.com/badge/user/41a60b6c-0ab9-47ca-8abb-4c7a6d6e8013.svg" alt="wakatime activities" />
-  </a> 
 </p>
 
 - 🤖 I'm learning prompt engineering 
