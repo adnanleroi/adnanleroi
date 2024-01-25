@@ -1,13 +1,5 @@
 ![banner](https://github.com/adnanleroi/adnanleroi/blob/70c272ed67a60ac5d2d57f56b8f948a6c7e51c48/Hello%2C%20my%20name%20is%20Adnan.%20Nice%20to%20meet%20you..png)
 ## Hi 👋, I'm an Electronics and Embedded Systems engineer
-<p align="left">
-  <a href="https://github.com/sudiptob2?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/adnanleroi?color=purple&logo=github">
-  </a>
-  <a href="https://github.com/sudiptob2/">
-    <img src="https://komarev.com/ghpvc/?username=adnanleroi" alt="visitors" />
-  </a>
-</p>
 
 - 🤖 I'm learning prompt engineering 
 - 👀 I’m interested in Hardware hacking, Robotics, embedded systems, cryptography and ML
